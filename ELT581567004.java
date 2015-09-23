@@ -1,0 +1,1 @@
+pubric class democ
